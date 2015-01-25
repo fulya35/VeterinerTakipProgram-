@@ -1,0 +1,85 @@
+c:\users\fulyaa\documents\visual studio 2010\Projects\VeterinerTakipProgramı\VeterinerTakipProgramı\bin\Debug\VeterinerTakipProgramı.exe
+c:\users\fulyaa\documents\visual studio 2010\Projects\VeterinerTakipProgramı\VeterinerTakipProgramı\bin\Debug\VeterinerTakipProgramı.pdb
+c:\users\fulyaa\documents\visual studio 2010\Projects\VeterinerTakipProgramı\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.Form1.resources
+c:\users\fulyaa\documents\visual studio 2010\Projects\VeterinerTakipProgramı\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.Properties.Resources.resources
+c:\users\fulyaa\documents\visual studio 2010\Projects\VeterinerTakipProgramı\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.csproj.GenerateResource.Cache
+c:\users\fulyaa\documents\visual studio 2010\Projects\VeterinerTakipProgramı\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.exe
+c:\users\fulyaa\documents\visual studio 2010\Projects\VeterinerTakipProgramı\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.pdb
+C:\Users\fulyaa\documents\visual studio 2010\Projects\VeterinerTakipProgramı\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.HastaBilgisi.resources
+C:\Users\fulyaa\documents\visual studio 2010\Projects\VeterinerTakipProgramı\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.csprojResolveAssemblyReference.cache
+C:\Users\fulyaa\documents\visual studio 2010\Projects\VeterinerTakipProgramı\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.AşıEkle.resources
+C:\Users\fulyaa\documents\visual studio 2010\Projects\VeterinerTakipProgramı\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.VeterinerEkle.resources
+C:\Users\fulyaa\documents\visual studio 2010\Projects\VeterinerTakipProgramı\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.Stok_Ekle.resources
+C:\Users\fulyaa\documents\visual studio 2010\Projects\VeterinerTakipProgramı\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.Operasyon_Ekle.resources
+C:\Users\fulyaa\documents\visual studio 2010\Projects\VeterinerTakipProgramı\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.Hasta_Aşı_Ekle.resources
+C:\Users\fulyaa\documents\visual studio 2010\Projects\VeterinerTakipProgramı\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.ReceteEkle.resources
+C:\Users\fulyaa\documents\visual studio 2010\Projects\VeterinerTakipProgramı\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.MuayeneEkle.resources
+C:\Users\fulyaa\documents\visual studio 2010\Projects\VeterinerTakipProgramı\VeterinerTakipProgramı\bin\Debug\ClassLibrary1.dll
+C:\Users\fulyaa\documents\visual studio 2010\Projects\VeterinerTakipProgramı\VeterinerTakipProgramı\bin\Debug\ClassLibrary1.pdb
+C:\Users\fulyaa\documents\visual studio 2010\Projects\VeterinerTakipProgramı\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.Veteriner.resources
+C:\Users\fulyaa\documents\visual studio 2010\Projects\VeterinerTakipProgramı\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.GuncelleStok.resources
+C:\Users\fulyaa\documents\visual studio 2010\Projects\VeterinerTakipProgramı\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.GuncelleVeterinerEkle.resources
+C:\Users\fulyaa\documents\visual studio 2010\Projects\VeterinerTakipProgramı\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.GuncelleAsiTanimi.resources
+C:\Users\fulyaa\documents\visual studio 2010\Projects\VeterinerTakipProgramı\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.GuncelleOperasyon.resources
+C:\Users\fulyaa\documents\visual studio 2010\Projects\VeterinerTakipProgramı\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.ResimGoster.resources
+C:\Users\fulyaa\documents\visual studio 2010\Projects\VeterinerTakipProgramı\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.AlerjiGoster.resources
+C:\Users\fulyaa\documents\visual studio 2010\Projects\VeterinerTakipProgramı\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.HastalıkGoster.resources
+C:\Users\fulyaa\documents\visual studio 2010\Projects\VeterinerTakipProgramı\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.IlacGoster.resources
+C:\Users\Hamza Ozkan\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.exe
+C:\Users\Hamza Ozkan\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.pdb
+C:\Users\Hamza Ozkan\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\bin\Debug\VeterinerTakipProgramı.exe
+C:\Users\Hamza Ozkan\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\bin\Debug\VeterinerTakipProgramı.pdb
+C:\Users\Hamza Ozkan\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\bin\Debug\ClassLibrary1.pdb
+C:\Users\Hamza Ozkan\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.csprojResolveAssemblyReference.cache
+C:\Users\Hamza Ozkan\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.AlerjiGoster.resources
+C:\Users\Hamza Ozkan\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.AşıEkle.resources
+C:\Users\Hamza Ozkan\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.Form1.resources
+C:\Users\Hamza Ozkan\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.GuncelleAsiTanimi.resources
+C:\Users\Hamza Ozkan\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.GuncelleOperasyon.resources
+C:\Users\Hamza Ozkan\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.GuncelleStok.resources
+C:\Users\Hamza Ozkan\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.GuncelleVeterinerEkle.resources
+C:\Users\Hamza Ozkan\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.HastalıkGoster.resources
+C:\Users\Hamza Ozkan\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.IlacGoster.resources
+C:\Users\Hamza Ozkan\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.ResimGoster.resources
+C:\Users\Hamza Ozkan\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.Veteriner.resources
+C:\Users\Hamza Ozkan\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.Hasta_Aşı_Ekle.resources
+C:\Users\Hamza Ozkan\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.HastaBilgisi.resources
+C:\Users\Hamza Ozkan\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.MuayeneEkle.resources
+C:\Users\Hamza Ozkan\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.Operasyon_Ekle.resources
+C:\Users\Hamza Ozkan\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.Properties.Resources.resources
+C:\Users\Hamza Ozkan\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.ReceteEkle.resources
+C:\Users\Hamza Ozkan\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.Stok_Ekle.resources
+C:\Users\Hamza Ozkan\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.VeterinerEkle.resources
+C:\Users\Hamza Ozkan\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.csproj.GenerateResource.Cache
+C:\Users\Hamza Ozkan\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.GuncelleHasta_Aşı.resources
+C:\Users\Hamza Ozkan\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.GuncelleMuayene.resources
+C:\Users\Hamza Ozkan\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.GuncelleRecete.resources
+C:\Users\fulyaa\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.exe
+C:\Users\fulyaa\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.pdb
+C:\Users\fulyaa\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\bin\Debug\VeterinerTakipProgramı.exe
+C:\Users\fulyaa\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\bin\Debug\VeterinerTakipProgramı.pdb
+C:\Users\fulyaa\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\bin\Debug\ClassLibrary1.pdb
+C:\Users\fulyaa\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.csprojResolveAssemblyReference.cache
+C:\Users\fulyaa\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.AlerjiGoster.resources
+C:\Users\fulyaa\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.AşıEkle.resources
+C:\Users\fulyaa\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.Form1.resources
+C:\Users\fulyaa\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.GuncelleAsiTanimi.resources
+C:\Users\fulyaa\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.GuncelleHasta_Aşı.resources
+C:\Users\fulyaa\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.GuncelleMuayene.resources
+C:\Users\fulyaa\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.GuncelleOperasyon.resources
+C:\Users\fulyaa\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.GuncelleRecete.resources
+C:\Users\fulyaa\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.GuncelleStok.resources
+C:\Users\fulyaa\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.GuncelleVeterinerEkle.resources
+C:\Users\fulyaa\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.HastalıkGoster.resources
+C:\Users\fulyaa\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.IlacGoster.resources
+C:\Users\fulyaa\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.ResimGoster.resources
+C:\Users\fulyaa\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.Veteriner.resources
+C:\Users\fulyaa\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.Hasta_Aşı_Ekle.resources
+C:\Users\fulyaa\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.HastaBilgisi.resources
+C:\Users\fulyaa\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.MuayeneEkle.resources
+C:\Users\fulyaa\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.Operasyon_Ekle.resources
+C:\Users\fulyaa\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.Properties.Resources.resources
+C:\Users\fulyaa\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.ReceteEkle.resources
+C:\Users\fulyaa\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.Stok_Ekle.resources
+C:\Users\fulyaa\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.VeterinerEkle.resources
+C:\Users\fulyaa\Desktop\Veteriner Takip Programı 3\VeterinerTakipProgramı\obj\x86\Debug\VeterinerTakipProgramı.csproj.GenerateResource.Cache

@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D547B1C6-6A0D-4379-A31C-CB5F0E426991}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VeterinerTakipProgramı</RootNamespace>
+    <AssemblyName>VeterinerTakipProgramı</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ClassLibrary1">
+      <HintPath>..\..\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AlerjiGoster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlerjiGoster.Designer.cs">
+      <DependentUpon>AlerjiGoster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AşıTanımı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AşıTanımı.Designer.cs">
+      <DependentUpon>AşıTanımı.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GuncelleAsiTanimi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuncelleAsiTanimi.Designer.cs">
+      <DependentUpon>GuncelleAsiTanimi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GuncelleHasta-Aşı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuncelleHasta-Aşı.Designer.cs">
+      <DependentUpon>GuncelleHasta-Aşı.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GuncelleMuayene.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuncelleMuayene.Designer.cs">
+      <DependentUpon>GuncelleMuayene.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GuncelleOperasyon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuncelleOperasyon.Designer.cs">
+      <DependentUpon>GuncelleOperasyon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GuncelleRecete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuncelleRecete.Designer.cs">
+      <DependentUpon>GuncelleRecete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GuncelleStok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuncelleStok.Designer.cs">
+      <DependentUpon>GuncelleStok.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GuncelleVeterinerEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuncelleVeterinerEkle.Designer.cs">
+      <DependentUpon>GuncelleVeterinerEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HastalıkGoster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HastalıkGoster.Designer.cs">
+      <DependentUpon>HastalıkGoster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IlacGoster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IlacGoster.Designer.cs">
+      <DependentUpon>IlacGoster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResimGoster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResimGoster.Designer.cs">
+      <DependentUpon>ResimGoster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Veteriner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Veteriner.Designer.cs">
+      <DependentUpon>Veteriner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hasta-Aşı Ekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hasta-Aşı Ekle.Designer.cs">
+      <DependentUpon>Hasta-Aşı Ekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HastaBilgisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HastaBilgisi.Designer.cs">
+      <DependentUpon>HastaBilgisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MuayeneEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MuayeneEkle.Designer.cs">
+      <DependentUpon>MuayeneEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OperasyonEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OperasyonEkle.Designer.cs">
+      <DependentUpon>OperasyonEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReceteEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReceteEkle.Designer.cs">
+      <DependentUpon>ReceteEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StokEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StokEkle.Designer.cs">
+      <DependentUpon>StokEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VeterinerEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VeterinerEkle.Designer.cs">
+      <DependentUpon>VeterinerEkle.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AlerjiGoster.resx">
+      <DependentUpon>AlerjiGoster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AşıTanımı.resx">
+      <DependentUpon>AşıTanımı.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuncelleAsiTanimi.resx">
+      <DependentUpon>GuncelleAsiTanimi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuncelleHasta-Aşı.resx">
+      <DependentUpon>GuncelleHasta-Aşı.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuncelleMuayene.resx">
+      <DependentUpon>GuncelleMuayene.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuncelleOperasyon.resx">
+      <DependentUpon>GuncelleOperasyon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuncelleRecete.resx">
+      <DependentUpon>GuncelleRecete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuncelleStok.resx">
+      <DependentUpon>GuncelleStok.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuncelleVeterinerEkle.resx">
+      <DependentUpon>GuncelleVeterinerEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HastalıkGoster.resx">
+      <DependentUpon>HastalıkGoster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IlacGoster.resx">
+      <DependentUpon>IlacGoster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResimGoster.resx">
+      <DependentUpon>ResimGoster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Veteriner.resx">
+      <DependentUpon>Veteriner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hasta-Aşı Ekle.resx">
+      <DependentUpon>Hasta-Aşı Ekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HastaBilgisi.resx">
+      <DependentUpon>HastaBilgisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MuayeneEkle.resx">
+      <DependentUpon>MuayeneEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OperasyonEkle.resx">
+      <DependentUpon>OperasyonEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ReceteEkle.resx">
+      <DependentUpon>ReceteEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StokEkle.resx">
+      <DependentUpon>StokEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VeterinerEkle.resx">
+      <DependentUpon>VeterinerEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\DataSources\HastaBilgisi.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
